@@ -13,5 +13,5 @@ git pull = get latest changes from the repo
 4. branching and merging
 git checkout -b bugfix = not only creates a new branch but also shifts us to bugfix branch
 git branch =  used to check on which branch we are on
- 
+git merge bugfix = to merge the branch go to main branch and then run this command
 
