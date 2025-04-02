@@ -1,3 +1,8 @@
 this is a new file.
-# if you want to add and commit in the same command use -a
+1. if you want to add and commit in the same command use -a
 git commit -am 'new commit' # here m is for the message"
+
+2. we can also do git add and git commit in the same command
+git add policy-script.json && git commit -m 'added policy-script.json'
+
+3. 
