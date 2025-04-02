@@ -5,4 +5,13 @@ git commit -am 'new commit' # here m is for the message"
 2. we can also do git add and git commit in the same command
 git add policy-script.json && git commit -m 'added policy-script.json'
 
-3. 
+3. getting code from git hub 
+git clone = download the code to your local machine 
+git fetch = get latest changes from remote repo without merging 
+git pull = get latest changes from the repo
+
+4. branching and merging
+git checkout -b bugfix = not only creates a new branch but also shifts us to bugfix branch
+git branch =  used to check on which branch we are on
+ 
+
