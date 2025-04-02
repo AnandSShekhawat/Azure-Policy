@@ -1,4 +1,5 @@
 this is a new file.
+git push -u origin main = to push the content to the main branch, after that you can use only git push
 1. if you want to add and commit in the same command use -a
 git commit -am 'new commit' # here m is for the message"
 
