@@ -1,0 +1,3 @@
+# anything you place in this file is safe and will not be pushed into the repo.
+# in this case we dont want secret.env file to be pushed to the repo
+secret.env
